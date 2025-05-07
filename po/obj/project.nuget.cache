@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "TCeuvgx/o6JRPtIi5mTrXFexwL/F8Z5Xik7dy8ZXgUf6vJf54y8wpjtSE2nVg1af2kXiyB2uPUJekwifAdZaNg==",
+  "success": true,
+  "projectFilePath": "\\\\Mac\\Home\\Downloads\\v1.0 (3)\\Grup19\\po\\po.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cihan\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.7\\guna.ui2.winforms.2.0.4.7.nupkg.sha512",
+    "C:\\Users\\cihan\\.nuget\\packages\\system.codedom\\6.0.0\\system.codedom.6.0.0.nupkg.sha512",
+    "C:\\Users\\cihan\\.nuget\\packages\\system.management\\6.0.0\\system.management.6.0.0.nupkg.sha512",
+    "C:\\Users\\cihan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.30\\microsoft.windowsdesktop.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\cihan\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.30\\microsoft.netcore.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\cihan\\.nuget\\packages\\microsoft.netcore.app.host.win-arm64\\6.0.30\\microsoft.netcore.app.host.win-arm64.6.0.30.nupkg.sha512",
+    "C:\\Users\\cihan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.30\\microsoft.aspnetcore.app.ref.6.0.30.nupkg.sha512"
+  ],
+  "logs": []
+}
